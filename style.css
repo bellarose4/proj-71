@@ -1,0 +1,146 @@
+h1 {
+	text-align: center;
+	font-size: 40px;
+	color: red;
+}
+
+h3 {
+	color: red;
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+	color: red;
+}
+h4{
+	color:red;
+	font-size: 25px;
+}
+h5{
+	font-style: italic;
+	font-weight: bold;
+}
+
+.shd{
+	border-style: solid;
+	border-width: 2px;
+	background-color: lightcoral;
+	width: 1200px;
+	border-radius: 50px;
+	font-style: italic;
+}
+
+.sod{
+	border-style: solid;
+	border-width: 2px;
+	background-color: lightcoral;
+	border-radius: 50px;
+	font-style: italic;
+}
+
+
+.ig img{
+	border-radius: 30px;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p {
+	font-size: 20px;
+	text-align: center;
+	color: black;
+}
+
+.p2{
+	font-size: 25px;
+	color:red;
+}
+
+body {
+	background-color: #EFDECD;
+}
+
+.c {
+	border-style: solid;
+	border-color: blue;
+	padding-left: 10px;
+}
+
+
+.bo{
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-right-color: gray;
+}
+
+.bi{
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: gray;
+	margin-bottom: 10px;
+}
+
+
+.bo img{
+	border-radius: 30px;
+}
+
+.bird img{
+	border-radius: 30px;
+}
+
+#bord{
+	border-style: solid;
+	border-width: 2px;
+	border-color: gray;
+}
+
+.bird{
+	border-style: solid;
+	border-width: 2px;
+	border-color: gray;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+	
+.eli{
+	margin-top: 13px;
+}
+.eli img{
+	border-radius: 25px;
+}
+.eli p{
+	margin-top: 10px;
+}
+.eli h4{
+	padding: 8px;
+	border-bottom: 1px solid blue;
+}
+
+.movie_head {
+	font-size: 20px;
+	padding: 6px 22px;
+	border-radius: 10px;
+	margin-bottom: 15px;
+	width: 100%;
+	display: inline-block;
+}
+
+.movie_head i {
+	float: right;
+}
+
+.movie_text span {
+	color: #ff7700;
+}
+
+#footer{
+height: 20px;
+background-color: white;
+}
